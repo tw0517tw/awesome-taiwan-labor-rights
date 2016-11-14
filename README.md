@@ -7,9 +7,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [電機資訊產業 EECS](#eecs)
 	- [工會 Labor Unions](#eecs-lu)
-- [高等教育 Higher Education](#he)
-	- [工會 Labor Unions](#he-lu)
-	- [倡議組織 NGOs](#he-ngo)
+- [高等教育 Higher Education](#edu)
+	- [工會 Labor Unions](#edu-lu)
+	- [倡議組織 NGOs](#edu-ngo)
 - [公務人員 Government Employee](#ge)
 	- [倡議組織 NGO](#ge-ngo)
 - [Prior art](#prior-art)
