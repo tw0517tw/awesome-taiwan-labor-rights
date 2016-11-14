@@ -5,6 +5,9 @@
 If you want to contribute to this list (please do), send me a pull request.  
 如欲貢獻，歡迎使用 pull request 功能。
 
+## 目錄 Table of Contents
+
+- [工具 Utilities](#util)
 - [電機資訊產業 EECS](#eecs)
 	- [工會 Labor Unions](#eecs-lu)
 - [高等教育 Higher Education](#edu)
@@ -14,6 +17,13 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [倡議組織 NGO](#ge-ngo)
 - [Prior art](#prior-art)
 - [License](#license)
+
+
+<a name="util" />
+## 工具 Utilities
+
+- [求職天眼通](https://www.facebook.com/clairvoyance4job/)
+- [勞保、勞退、健保三合一試算器](http://tw0517tw.github.io/labor-cost/)
 
 <a name="eecs" />
 ## 電機資訊產業 EECS
