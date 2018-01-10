@@ -24,6 +24,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## 工具 Utilities
 
 - [求職天眼通](https://www.facebook.com/clairvoyance4job/)
+- [勞基法函式庫](https://github.com/g0v/labor-standards-tw)
 - [勞保、勞退、健保三合一試算器](http://tw0517tw.github.io/labor-cost/)
 
 <a name="eecs" />
